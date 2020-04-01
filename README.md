@@ -1,2 +1,2 @@
-# Dq
-Dictionary Query
+# qany
+Query Anything
