@@ -1,3 +1,3 @@
 import { QueryAnything } from './qany';
 
-export const qany = () => new QueryAnything();
+export const qany = (obj: any) => new QueryAnything(obj);
